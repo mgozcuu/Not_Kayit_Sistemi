@@ -8,8 +8,7 @@ Bu proje, Windows Form kullanarak oluşturulmuş bir Not Kayıt Sistemidir. Proj
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Ekran Görüntüleri](#ekran-görüntüleri)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
+
 
 ## Özellikler
 
